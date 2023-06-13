@@ -6,4 +6,4 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-ffffff?style=flat&logo=Flutter&logoColor=blue"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-ffffff?style=flat&logo=Firebase&logoColor=f9584b"/></a>
 
-![Lust3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=llimental&show_icons=true&theme=react)
+![Lust3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=llimental&show_icons=true&theme=react&count_private=true)
